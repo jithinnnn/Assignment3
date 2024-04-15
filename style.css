@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+body{
+    background-color: rgb(33, 53, 53);
+}
+
+.heading{
+    font-family: "Jersey 10", sans-serif;
+    color: blanchedalmond;
+}
+
+table{
+    width: 50%;
+    margin: 40px auto;
+    margin-right: 100px;
+    border-collapse: collapse;
+}
+
+th{
+    border-bottom: 1px solid;
+    color: blanchedalmond ;
+    font-family: "Jersey 10", sans-serif;
+}
+
+th,td{
+    border: none;
+    height: 30px; 
+    padding: 2px;
+}
+
+tr{
+    border-bottom: 1px solid;
+}
+
+.d-flex button a{
+    text-decoration: none;
+    color: white;
+}
